@@ -1,4 +1,4 @@
-![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
+![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg](https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png "React Logo")
 
 # React Example
 
